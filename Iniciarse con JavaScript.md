@@ -1,0 +1,1 @@
+﻿**Empezar con JavaScript**Aquí dejo un enlace a documentación para todos aquellos que quieran empezar a saber algo más de JavaScript.[Empezar con JavaScript](http://speakingjs.com/es5/pt01.html)
